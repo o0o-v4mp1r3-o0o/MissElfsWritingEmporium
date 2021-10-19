@@ -1,0 +1,17 @@
+.yourstories {
+  width: 600px;
+  margin-left: 20px;
+}
+.home {
+  width: 600px;
+  text-align: center;
+}
+.shotinthedark {
+  display: flex;
+}
+.homeandstories {
+  display: flex;
+}
+.donate {
+  margin-left: 10px;
+}

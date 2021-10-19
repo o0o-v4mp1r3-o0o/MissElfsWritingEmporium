@@ -1,0 +1,21 @@
+.displayname {
+  float: right;
+}
+.navbar {
+  display: flex;
+}
+.home:hover {
+  background-color: gray;
+}
+.aboutpage {
+  max-width: 500px;
+}
+.Moon {
+  top: 0px;
+  bottom: 0px;
+  width: 100%;
+  position: absolute;
+}
+.homeheader {
+  color: white;
+}

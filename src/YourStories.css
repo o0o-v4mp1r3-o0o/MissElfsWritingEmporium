@@ -1,0 +1,29 @@
+ul {
+  list-style-type: none;
+}
+.PlusButton {
+  cursor: pointer;
+  width: 30px;
+}
+.Cancel {
+  cursor: pointer;
+}
+.Plusdisabled {
+  cursor: default;
+}
+.Container {
+  width: 3000%;
+  display: flex;
+}
+.Container > Input {
+  width: 1000px;
+}
+.List {
+  width: 1000px;
+}
+.Deleteicon {
+  cursor: pointer;
+}
+.Writestory {
+  float: right;
+}
